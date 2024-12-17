@@ -1,0 +1,6 @@
+.env
+.srv
+/theme/json
+/uploads
+/plugins
+/mlsfiles/cache
